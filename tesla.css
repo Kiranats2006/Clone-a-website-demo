@@ -8,7 +8,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 5px;
 }
 #logo {
     border: 100%;
@@ -19,14 +19,17 @@ button {
     background-color: transparent;
     color: black;
      border: none;
-     padding: 30px 20px;
+     padding: 10px 20px;
      text-align: center;
      text-decoration: none;
-     transform: 0.9;
+     transform: scale(0.9);
      font-size: medium;
-     font: bolder;
+     font: bold;
      cursor: pointer;
 
+}
+button:hover{
+    background-color: rgb(97, 113, 112);
 }
 .nav-links {
     display: flex;
@@ -39,4 +42,7 @@ body {
     background-size: cover;
     background-image: url(https://c4.wallpaperflare.com/wallpaper/20/1004/36/car-tesla-motors-tesla-roadster-supercars-wallpaper-preview.jpg);
 }
-
+.desc {
+    text-align: center;
+    justify-content: center;
+}
