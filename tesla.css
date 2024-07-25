@@ -12,6 +12,7 @@ nav {
 }
 #logo {
     width: 10%;
+    opacity: 0.5;
 
 }
 button {
@@ -41,7 +42,7 @@ img {
 }
 body {
     background-size: cover;
-    background-image: url(https://c4.wallpaperflare.com/wallpaper/20/1004/36/car-tesla-motors-tesla-roadster-supercars-wallpaper-preview.jpg);
+    background-image: url(https://images4.alphacoders.com/108/1084315.jpg);
 }
 .desc {
     text-align: center;
