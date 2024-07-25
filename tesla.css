@@ -44,8 +44,10 @@ body {
     min-height: 100vh;
     background-size: cover;
     background-image: url(https://images4.alphacoders.com/108/1084315.jpg);
-    
+    background-size: cover;
 }
+
+
 .desc {
     text-align: center;
     justify-content: center;
