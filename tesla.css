@@ -3,10 +3,9 @@
     padding: 0%;
 }
 nav {
-    border: 1px;
+
     display: flex;
     justify-content: space-between;
-    align-items: center;
     padding: 5px;
 }
 #logo {
@@ -42,7 +41,6 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-size: cover;
     background-image: url(https://images4.alphacoders.com/108/1084315.jpg);
     background-size: cover;
 }
@@ -50,7 +48,6 @@ body {
 
 .desc {
     text-align: center;
-    justify-content: center;
     font-family:'Times New Roman', Times, serif;
     font-size:260%;
     }
